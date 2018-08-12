@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">12_Zodiac</string>
+    <string name="description_Icon_Zodiac">Icon of zodiac</string>
+    <string name="description_loading_screen">Loading Screen</string>
+    <string name="txt_loading_screen">CLick to continue</string>
+
+</resources>
