@@ -1,1 +1,1 @@
-# 12 Zodiacs
+# some simple android application
