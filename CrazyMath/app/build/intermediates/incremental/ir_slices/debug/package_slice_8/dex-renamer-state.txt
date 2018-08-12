@@ -1,0 +1,4 @@
+#Sun Aug 12 12:03:10 ICT 2018
+base.0=D\:\\Android\\Android-Application\\CrazyMath\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
